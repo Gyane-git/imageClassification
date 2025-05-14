@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 import cv2
 import os
-
+import gdown
 
 # Define model file name and Google Drive file ID
 model_path = "vgg16_insect_model.h5"
